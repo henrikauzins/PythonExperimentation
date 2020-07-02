@@ -9,7 +9,7 @@ class TestClass:
 
 def myFunct():
     x = 5
-    print(x)
+    print(x * 10)
 
 t1 = TestClass("Henrik", 22)
 print(t1)
