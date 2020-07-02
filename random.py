@@ -20,8 +20,7 @@ for x in num:
 
 class Person:
     def __init__(self):
-        x = "henrik"
-        y = "auzins"
+
         self.x = 10
         self.y = 20
 
